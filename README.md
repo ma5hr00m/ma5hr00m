@@ -8,4 +8,4 @@ I'm ma5hr00m, a college student aiming to become a front-end developer.
 
 - 😆 Keep learning, keep improving!
   
-![ma5hr00m's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma5hr00m&show_icons=true)
+
