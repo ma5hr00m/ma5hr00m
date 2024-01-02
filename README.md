@@ -2,7 +2,7 @@
     <h1>Hi, there! I am <a href='https://github.com/ma5hr00m'>ma5hr00m</a> 👋</h1>
 </div>
 
-<img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api/?username=ma5hr00m&show_icons=true&title_color=fff&icon_color=2f81f7&text_color=9f9f9f&bg_color=151515' />
+<img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api?username=ma5hr00m&theme=chartreuse-dark&show_icons=true' />
 
 - 🎓 An undergraduate studying computer science.
 - 🎯 A noob now focusing on **_web security_**.
