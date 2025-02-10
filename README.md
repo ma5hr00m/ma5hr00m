@@ -22,6 +22,7 @@
 - 🏠 [kinoko's blog](https://blog.kinoko.fun) - Blog focused on tech sharing articles
 - 🎨 [kinoko-color](https://color.kinoko.fun) - Modern and intuitive color palette tool
 - 🌸 [Mushroom Monogatari](https://monogatari.kinoko.fun/) - Sass long-duration animation demo site
+- 🌸 [Frieren](https://github.com/ma5hr00m/Frieren) - Sass long-duration animation demo site
 - 🌙 [kinoko memos](https://memos.kinoko.fun) - Library of technology and ideas sharing
 
 ### Knowledge base in upkeep
