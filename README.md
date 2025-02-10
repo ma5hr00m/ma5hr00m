@@ -1,31 +1,39 @@
-<div align='center'>
-    <h1>Hi, there! I am <a href='https://github.com/ma5hr00m'>ma5hr00m</a> 👋</h1>
-</div>
+## Hi, I'm kinoko 👋
 
-<img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api?username=ma5hr00m&theme=chartreuse-dark&show_icons=true' />
+![visitors](https://komarev.com/ghpvc/?username=ma5hr00m)
 
-- 🎓 An undergraduate studying computer science.
-- 🎯 A noob now focusing on **_web security_**.
-- 🪄 A CSS wizard, passionate about **_web animations_**.
-- 🌸 An enthusiast who loves laid-back style cartoon.
-- 💭 Interested in **_web front-end development_**.
-- 📧 How to reach me: [kzsoso@163.com](kzsoso@163.com).
-- 📖 Read more in my blog: [阿菇の博客](https://ma5hr00m.top/).
+<img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api?username=ma5hr00m&theme=algolia&show_icons=true' />
 
-<br/>
+- 🗡 Focusing on cyber security
+- ⭐ Interested in web development and self-hosting
+- 🏠 Blog at [fun.kinoko.fun](https://blog.kinoko.fun/)
+- 📩 Reach me by [sending me an email](kzsoso@163.com)
+- 🤖 Working with AI
+- 🔥 Commit to using programs to improve productivity and consider it a meaningful endeavor
 
-<div align='center'>
-    <h2>Beloved Tools</h2>
-    <div align='center'>
-        <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
-        <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
-        <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
-        <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
-        <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'/>
-        <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
-    </div>
-</div>
+### Gadgets in progress
+
+- 🚀 [kankan](https://github.com/ma5hr00m/kankan) - Lightweight and secure intranet penetration tool / `Go` `Network` `Penetration`
+- 👀 [kikoscan](https://github.com/ma5hr00m/kikoscan) - Lightweight port scanner / `Go` `Scanner` 
+- 😵 [oh-my-network](https://github.com/ma5hr00m/oh-my-network) - Network diagnostic tool that checks your network connection status / `Go` `Network`
+
+### Websites in operation
+
+- 🏠 [kinoko's blog](https://blog.kinoko.fun) - Blog focused on tech sharing articles
+- 🎨 [kinoko-color](https://color.kinoko.fun) - Modern and intuitive color palette tool
+- 🌸 [Mushroom Monogatari](https://monogatari.kinoko.fun/) - Sass long-duration animation demo site
+- 🌙 [kinoko memos](https://memos.kinoko.fun) - Library of technology and ideas sharing
+
+### Knowledge base in upkeep
+
+- 🏫 [HDU-kinoko-courses](https://github.com/HDU-Course/HDU-kinoko-courses) - Sharing of course materials and experiences
+- 🌱 [Hello Web](https://github.com/ma5hr00m/hello-web) - Web Orientation Document for [@Vidar-Team](https://github.com/vidar-team) New Members
+
+### Technology stack
+
+[![Language](https://skillicons.dev/icons?i=python,nodejs,go,javascript,typescript,html,css,scss,java,php)](https://skillicons.dev/)
+[![Tools](https://skillicons.dev/icons?i=windows,arch,github,vercel,bash,powershell,docker,vscode,vim,androidstudio,webstorm,obsidian,figma,blender)](https://skillicons.dev/)
+
 
 <!-- flag{Ha_Ha_You_Find_Me} -->
 
-![](https://komarev.com/ghpvc/?username=ma5hr00m)
