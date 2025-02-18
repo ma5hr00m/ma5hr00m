@@ -6,7 +6,7 @@
 
 - 🗡 Focusing on cyber security
 - ⭐ Interested in web development and self-hosting
-- 🏠 Blog at [fun.kinoko.fun](https://blog.kinoko.fun/)
+- 🏠 Blog at [blog.kinoko.fun](https://blog.kinoko.fun/)
 - 📩 Reach me by [sending me an email](kzsoso@163.com)
 - 🤖 Working with AI
 - 🔥 Commit to using programs to improve productivity and consider it a meaningful endeavor
@@ -19,11 +19,11 @@
 
 ### Websites in operation
 
-- 🏠 [kinoko's blog](https://blog.kinoko.fun) - Blog focused on tech sharing articles
-- 🎨 [kinoko-color](https://color.kinoko.fun) - Modern and intuitive color palette tool
-- 🌸 [Mushroom Monogatari](https://monogatari.kinoko.fun/) - Sass long-duration animation demo site
-- 🌸 [Frieren](https://github.com/ma5hr00m/Frieren) - Sass long-duration animation demo site
-- 🌙 [kinoko memos](https://memos.kinoko.fun) - Library of technology and ideas sharing
+- 🎉 [每日一新 | Daily Insights](https://www.kinoko.fun) - Share fresh and interesting things, technology driven / `Notion`
+- 🏠 [阿菇の博客 | kinoko's blog](https://blog.kinoko.fun) - Blog focused on tech sharing articles / `Hexo` `cactus-kiko`
+- 🎨 [调色盘 | kinoko-color](https://color.kinoko.fun) - Modern and intuitive color palette tool /  `React`
+- 🌸 [菇物语 | Mushroom Monogatari](https://monogatari.kinoko.fun/) - Sass long-duration animation demo site / `React` `Sass`
+- 🌙 [kinoko memos](https://memos.kinoko.fun) - Library of technology and ideas sharing / `memos`
 
 ### Knowledge base in upkeep
 
