@@ -2,7 +2,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=usamikinoko)
 
-<img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api?username=ma5hr00m&theme=algolia&show_icons=true' />
+<img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api?username=usamikinoko&theme=algolia&show_icons=true' />
 
 - 🗡 Focusing on cyber security
 - ⭐ Interested in web development and self-hosting
