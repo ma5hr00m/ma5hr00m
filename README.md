@@ -1,6 +1,8 @@
 ## Hi, I'm kinoko 👋
 
-![visitors](https://komarev.com/ghpvc/?username=usamikinoko)
+<a href='https://github.com/usamikinoko/useful-scripts/tree/main/PVBooster' alt='github readme pv'>
+  <img src="https://komarev.com/ghpvc/?username=usamikinoko" />
+</a>
 
 <img style="height:190px;" align='right' src='https://github-readme-stats.vercel.app/api?username=usamikinoko&theme=algolia&show_icons=true' />
 
