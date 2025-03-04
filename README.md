@@ -15,6 +15,7 @@
 
 ### Gadgets in progress
 
+- 🕷 [jumping-spider [private]](https://github.com/usamikinoko/jumping-spider-nodejs) - Automated Access Risk Detection Tool / `Nodejs` `Automation` `Playwright`
 - 🚀 [kankan](https://github.com/ma5hr00m/kankan) - Lightweight and secure intranet penetration tool / `Go` `Network` `Penetration`
 - 👀 [kikoscan](https://github.com/ma5hr00m/kikoscan) - Lightweight port scanner / `Go` `Scanner` 
 - 😵 [oh-my-network](https://github.com/ma5hr00m/oh-my-network) - Network diagnostic tool that checks your network connection status / `Go` `Network`
